@@ -1,0 +1,2 @@
+# cmake_planning_A
+cmake_planning_test
